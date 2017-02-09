@@ -18,20 +18,18 @@
 > conda create --name dlnd python=3
 
 5. Enter your new environment:
+	Mac/Linux: 
+	> source activate dlnd
 
-Mac/Linux: 
-> source activate dlnd
-
-Windows:
-> activate dlnd
+	Windows:
+	> activate dlnd
 
 6. Ensure you have numpy, matplotlib, pandas, and jupyter notebook installed by doing the following:
-> conda install numpy matplotlib pandas jupyter notebook
+	> conda install numpy matplotlib pandas jupyter notebook
 
 7. Run the following to open up the notebook:
 
-> jupyter notebook dlnd-your-first-neural-network.ipynb
-
+	> jupyter notebook dlnd-your-first-neural-network.ipynb
 
 8. Follow the instructions in the notebook will lead you through the project.
 
