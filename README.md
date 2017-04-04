@@ -46,6 +46,14 @@
 
 ## Project 3 : Generate TV Scripts
 
+![image](http://i1.piimg.com/567571/19a25dcfc375bfec.png)
+
+> Some Useful Links
+> - [Learning TensorFlow Beginner-level tutorials for a powerful framework](http://learningtensorflow.com/index.html)
+> - [What are the advantages, why would one use multiple LSTMs, stacked one side-by-side, in a deep-network?](http://stats.stackexchange.com/questions/163304/advantages-of-using-multiple-lstm-s-in-deep-network)
+> - [The Simpsons by the Data27 seasons of "Simpsons did it."](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
+> - [This guy used a neural network to generate a new, bizarre episode of Friends](http://www.avclub.com/article/guy-used-neural-network-generate-new-bizarre-episo-231055)
+
 ## Project 4 : Make a Translation Chatbot
 
 ## Project 5 : Generate Faces
