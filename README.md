@@ -44,11 +44,28 @@
 
 ### If you are curious about this project, you can view the [any kinds of soultion](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130). Deep Learning is not just mathematic and coding. You need to read a lot of paper to inspire you (Trust me, reding paper is important for learning deep learning. You can find [awesome depp learning fromhere](https://github.com/MachineLearningJourney/awesome-deep-learning-papers)). Everyday, I will spend 30 mins on reding paper in the train.
 
-## Project 3 : Generate TV Scripts
+# Project 3 : Generate TV Scripts
 
 ![image](http://i1.piimg.com/567571/19a25dcfc375bfec.png)
 
-> Some Useful Links
+
+### Introduction
+
+> In this project, you'll generate your own Simpsons TV scripts using RNNs. You'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
+
+### Getting the project files
+>The project files can be found in our public GitHub repo, in the tv-script-generation folder. You can download the files from there, but it's better to clone the repository to your computer
+
+```
+git clone https://github.com/udacity/deep-learning.git
+```
+
+> This way you can stay up to date with any changes we make by pulling the changes to your local repository with git pull.
+
+
+
+
+###  Some Useful Links
 > - [Learning TensorFlow Beginner-level tutorials for a powerful framework](http://learningtensorflow.com/index.html)
 > - [What are the advantages, why would one use multiple LSTMs, stacked one side-by-side, in a deep-network?](http://stats.stackexchange.com/questions/163304/advantages-of-using-multiple-lstm-s-in-deep-network)
 > - [The Simpsons by the Data27 seasons of "Simpsons did it."](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data)
