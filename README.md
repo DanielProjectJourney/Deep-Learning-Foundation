@@ -18,7 +18,7 @@
 > conda create --name dlnd python=3
 
 5. Enter your new environment:
-	Mac/Linux: 
+	Mac/Linux:
 	> source activate dlnd
 
 	Windows:
@@ -72,9 +72,19 @@ git clone https://github.com/udacity/deep-learning.git
 > - [This guy used a neural network to generate a new, bizarre episode of Friends](http://www.avclub.com/article/guy-used-neural-network-generate-new-bizarre-episo-231055)
 
 ## Project 4 : Make a Translation Chatbot
-
-## Project 5 : Generate Faces
-
+![image](http://i1.piimg.com/567571/20ecd1eea52e5e85.png)
 
 
+## Language Translation
 
+### Introduction
+> In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
+
+### Getting the project files
+> The project files can be found in our public GitHub repo, in the language-translation folder. You can download the files from there, but it's better to clone the repository to your computer
+
+> This way you can stay up to date with any changes we make by pulling the changes to your local repository with git pull.
+
+
+
+## Project 5 : Generate Faces (Generative Adversarial Networks)
