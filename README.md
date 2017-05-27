@@ -88,3 +88,33 @@ git clone https://github.com/udacity/deep-learning.git
 
 
 ## Project 5 : Generate Faces (Generative Adversarial Networks)
+![image](http://danieltech.net/MarkDownPicture/face_generation.png)
+
+## Introduction
+> In this project, you'll use generative adversarial networks to generate new images of faces.
+
+###  Some Useful Links
+
+> - [Here there is a great video about GAN:](https://www.youtube.com/watch?v=X1mUN6dD8uE)
+
+> - [I recommend checking the Google Python Style Guide, there are great tips about how to improve coding, in general](https://google.github.io/styleguide/pyguide.html)
+
+### Advanced tips:
+
+> - [How to Train a GAN:](https://github.com/soumith/ganhacks)
+
+> - [How to select the batch_size vs the number of epochs:](https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network)
+
+> - [GAN stability:](http://www.araya.org/archives/1183)
+
+>- [MNIST GAN with Keras:](https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
+
+> - [DCGAN(1):](https://github.com/yihui-he/GAN-MNIST)
+
+> - [DCGAN(2):](https://github.com/carpedm20/DCGAN-tensorflow)
+
+> - [DiscoGAN, Discover Cross-Domain Relations with Generative Adversarial Networks:](https://github.com/carpedm20/DiscoGAN-pytorch)
+
+> - [Good articles(1):](https://blog.openai.com/generative-models/)
+
+> - [Good Articles(2):](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
